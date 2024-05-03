@@ -1,0 +1,52 @@
+.generator-card {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    overflow: hidden;
+}
+
+.generator-main {
+    padding: 20px;
+    text-align: center;
+    background: #E0E0E0;
+    /* Some light background */
+}
+
+.generator-icon {
+    height: 64px;
+    margin-bottom: 10px;
+}
+
+.temperature {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.generator-description {
+    text-transform: capitalize;
+}
+
+.generator-details {
+    padding: 20px;
+    background: #F8F8F8;
+    /* Slightly different background for contrast */
+    /* display: flex; */
+    gap: 10px;
+}
+
+.generator-detail-item {
+    display: flex;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+}
+
+.label {
+    width: 200px;
+}

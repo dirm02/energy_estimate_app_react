@@ -1,4 +1,4 @@
-# Weather Analysis App with React: An application for Weather Analytics made by React
+# Renewable Energy Estimation App with React: An application for Renewable Energy Estimation made by React
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -8,7 +8,7 @@
 * [License](#license)
 
 ## Introduction
-The app analyze the weather data fetched from [Weather Data API](https://www.visualcrossing.com/weather-api).
+The app estimate the renewable energy based on the weather data fetched from [Weather Data API](https://www.visualcrossing.com/weather-api).
 
 ## Running App
 You can run the app by runnning `npm start` in the [weather_app_react] folder4.

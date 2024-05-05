@@ -8,7 +8,7 @@
 * [License](#license)
 
 ## Introduction
-The app estimate the renewable energy based on the weather data fetched from [Weather Data API](https://www.visualcrossing.com/weather-api).
+The app estimate the renewable energy based on the weather data fetched from [Weather Data API](https://www.visualcrossing.com/weather-api), especially the advanced energy elements from [https://www.visualcrossing.com/resources/documentation/weather-api/energy-elements-in-the-timeline-weather-api/]. 
 
 ## Running App
 You can run the app by runnning `npm start` in the [weather_app_react] folder4.
